@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+tensorflow
+keras
+scipy
+nltk
+tqdm
